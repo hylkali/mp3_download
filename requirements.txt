@@ -1,2 +1,4 @@
 streamlit
 yt_dlp
+bs4
+requests
